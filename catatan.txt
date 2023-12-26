@@ -1,0 +1,1 @@
+Ini versi yang belum pakai payment gateway, alias masih manual via WA
